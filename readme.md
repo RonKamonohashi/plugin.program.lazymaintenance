@@ -1,5 +1,5 @@
 ### Notes
-- Current Version 1.4
+- Current Version 1.5
 - Hard Clean and Restore currently don't work on Windows
 
 ## Features
