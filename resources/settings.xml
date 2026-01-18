@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Cleaning">
+        <setting id="auto_clean_size" label="Auto Soft Clean Limit (MB)" type="number" default="50" min="0" help="Target size for cache/thumbnails when running auto clean on startup (Soft Clean)."/>
+        <setting id="manual_clean_size" label="Manual Soft Clean Limit (MB)" type="number" default="5" min="0" help="Target size for cache/thumbnails when running manual Soft Clean."/>
+    </category>
+</settings>
