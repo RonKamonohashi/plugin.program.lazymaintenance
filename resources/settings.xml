@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Cleaning">
+        <setting id="auto_clean_size" label="Auto Clean Limit (MB)" type="number" default="50" min="0" help="Target size for thumbnails when running auto clean on startup."/>
+    </category>
+</settings>
